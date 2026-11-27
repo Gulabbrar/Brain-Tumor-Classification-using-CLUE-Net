@@ -1,0 +1,19 @@
+.venv/
+.venv310/
+venv/
+__pycache__/
+*.pyc
+*.h5
+*.keras
+*.pt
+*.pth
+*.dll
+*.pyd
+*.lib
+*.data-*
+Results/models/
+Epic and CSCR hospital Dataset_CLEANED/
+*.jpg
+*.jpeg
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+split,glioma,meningioma,pituitary,no_tumor
+test,755,546,626,487
+train,2565,1856,2128,1653
+val,453,327,376,292

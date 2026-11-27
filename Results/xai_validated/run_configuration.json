@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "image_size": 224,
+  "input_range": "[0,255]",
+  "class_order": [
+    "glioma",
+    "meningioma",
+    "pituitary",
+    "no_tumor"
+  ],
+  "models": [
+    "CustomCNN",
+    "EfficientNetB0"
+  ],
+  "methods": [
+    "GradCAM",
+    "GradCAM++",
+    "LIME",
+    "Occlusion"
+  ],
+  "per_class": 4,
+  "lime_samples": 1000,
+  "retrained_models": false,
+  "shap_included": false,
+  "foreground_mask_is_tumour_mask": false
+}

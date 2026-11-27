@@ -1,0 +1,21 @@
+{
+  "total_images_found": 12064,
+  "class_counts": {
+    "glioma": 3773,
+    "meningioma": 2729,
+    "pituitary": 3130,
+    "no_tumor": 2432
+  },
+  "corrupt_images": 0,
+  "exact_duplicate_groups": 1026,
+  "image_width_min": 150,
+  "image_width_median": 512.0,
+  "image_height_min": 167,
+  "image_height_median": 512.0,
+  "image_modes": {
+    "RGB": 9700,
+    "L": 2358,
+    "RGBA": 5,
+    "P": 1
+  }
+}

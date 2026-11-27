@@ -1,0 +1,3 @@
+{
+  "interpretation_note": "p-values compare paired test-set correctness of the top two models using an exact binomial test on discordant predictions; they do not establish clinical significance and should be reported with study design context."
+}

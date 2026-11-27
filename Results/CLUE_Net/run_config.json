@@ -1,0 +1,21 @@
+{
+  "data_dir": "E:\\Project\\Brain Tumor\\Epic and CSCR hospital Dataset_CLEANED",
+  "backbone": "DenseNet121",
+  "img_size": 224,
+  "epochs": 30,
+  "batch_per_class": 2,
+  "supcon_weight": 0.5,
+  "temperature": 0.07,
+  "learning_rate": 0.0001,
+  "backbone_lr": 1e-05,
+  "freeze_backbone": false,
+  "mc_samples": 30,
+  "seed": 42,
+  "output_dir": "E:\\Project\\Brain Tumor\\Results\\CLUE_Net",
+  "class_names": [
+    "glioma",
+    "meningioma",
+    "pituitary",
+    "notumor"
+  ]
+}

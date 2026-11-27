@@ -1,0 +1,11 @@
+{
+  "split": "validation",
+  "n_samples": 1394,
+  "accuracy": 0.9892395982783357,
+  "macro_precision": 0.98913284415045,
+  "macro_recall": 0.9893044505614051,
+  "macro_f1": 0.9891753301186887,
+  "mean_predictive_entropy": 0.025640872958323624,
+  "mean_epistemic_uncertainty": 0.001463453533683842,
+  "macro_roc_auc_ovr": 0.9994584491936668
+}

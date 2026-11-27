@@ -1,0 +1,20 @@
+{
+  "seed": 42,
+  "image_size": 224,
+  "batch_size": 16,
+  "epochs_requested": 30,
+  "classes": [
+    "glioma",
+    "meningioma",
+    "pituitary",
+    "no_tumor"
+  ],
+  "train_n": 8202,
+  "validation_n": 1448,
+  "test_n": 2414,
+  "models_requested": [
+    "Xception"
+  ],
+  "dann_requested": false,
+  "figure_dpi": 300
+}
